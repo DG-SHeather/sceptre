@@ -93,7 +93,7 @@ This will impact :ref:`Templating` of stacks by modifying the behavior of jinja.
       newline_sequence: \n
 
 
-require_version
+required_version
 ~~~~~~~~~~~~~~~
 
 A `PEP 440`_ compatible version specifier. If the Sceptre version does not fall
