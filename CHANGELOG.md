@@ -4,6 +4,10 @@ Categories: Added, Removed, Changed, Fixed, Nonfunctional, Deprecated
 
 ## Unreleased
 
+### Fixed
+
+- Doc: Fixed `required_version` references.
+
 ## 2.6.3 (2021.08.13)
 
 ### Fixed
@@ -557,7 +561,7 @@ Categories: Added, Removed, Changed, Fixed, Nonfunctional, Deprecated
 
 ## 0.44.0 (2016.08.5)
 
-- Adding require_version.
+- Adding required_version.
 - Renaming --machine-readable to --output.
 - Refactoring hook.py.
 
